@@ -1,8 +1,8 @@
 {
-  "name": "pifagor",
+  "name": "Pifagor",
   "version": "0.1.1",
   "private": true,
-  "homepage": "https://Korchmenuk.github.io/pifagor/",
+  "homepage": "https://Korchmenuk.github.io/Pifagor/",
   "dependencies": {
     "@mui/base": "^5.0.0-beta.40",
     "@testing-library/jest-dom": "^5.16.3",

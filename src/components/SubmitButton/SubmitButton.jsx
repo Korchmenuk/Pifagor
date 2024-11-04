@@ -5,7 +5,7 @@ export const SubmitButton = ({ onSubmit, value }) => {
       onClick={onSubmit}
       disabled={!value}
       placeholder="дд.мм.рррр"
-      className="ml-5 text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm w-full w-auto px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800 disabled:bg-blue-400"
+      className="ml-5 text-white bg-rose-800 hover:bg-rose-500 focus:ring-4 focus:outline-none focus:ring-rose-300 font-medium rounded-lg text-sm w-full w-auto px-5 py-2.5 text-center dark:bg-rose-600 dark:hover:bg-rose-700 dark:focus:ring-rose-800 disabled:bg-rose-400"
     >
       Розрахувати
     </button>

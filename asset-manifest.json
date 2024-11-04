@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pifagor/static/css/main.4990f879.css",
+    "main.js": "/Pifagor/static/js/main.05837fa1.js",
+    "index.html": "/Pifagor/index.html",
+    "main.4990f879.css.map": "/Pifagor/static/css/main.4990f879.css.map",
+    "main.05837fa1.js.map": "/Pifagor/static/js/main.05837fa1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4990f879.css",
+    "static/js/main.05837fa1.js"
+  ]
+}

@@ -1,4 +1,3 @@
-import kateImage from '../../assets/katia.png';
 export const PhotoContainer = () => {
   return (
     <div

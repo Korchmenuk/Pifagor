@@ -1,4 +1,3 @@
-import intagramPhoto from '../../assets/insta.png';
 export const Social = () => {
   return (
     <div className="mt-10 flex" style={{ justifyContent: 'center' }}>

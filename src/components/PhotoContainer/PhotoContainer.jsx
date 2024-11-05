@@ -1,4 +1,4 @@
-import photo from 'assets/photo_2024-11-04_20-34-51-removebg-preview.png';
+import photo from 'assets/photo_2024-11-05_20-54-24-removebg-preview.png';
 
 export const PhotoContainer = () => {
   return (
@@ -12,8 +12,8 @@ export const PhotoContainer = () => {
     >
       <img
         style={{
-          width: 122,
-          height: 109,
+          width: 120,
+          height: 120,
           borderRadius: '50%',
           backgroundColor: 'gray',
         }}

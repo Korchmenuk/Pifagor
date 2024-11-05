@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Pifagor/static/css/main.427f049d.css",
-    "main.js": "/Pifagor/static/js/main.4e012923.js",
+    "main.css": "/Pifagor/static/css/main.4cc13254.css",
+    "main.js": "/Pifagor/static/js/main.1d1ea308.js",
     "static/media/photo_2024-11-05_20-54-24-removebg-preview.png": "/Pifagor/static/media/photo_2024-11-05_20-54-24-removebg-preview.57be1c1ea0b8f3c987ca.png",
     "index.html": "/Pifagor/index.html",
-    "main.427f049d.css.map": "/Pifagor/static/css/main.427f049d.css.map",
-    "main.4e012923.js.map": "/Pifagor/static/js/main.4e012923.js.map"
+    "main.4cc13254.css.map": "/Pifagor/static/css/main.4cc13254.css.map",
+    "main.1d1ea308.js.map": "/Pifagor/static/js/main.1d1ea308.js.map"
   },
   "entrypoints": [
-    "static/css/main.427f049d.css",
-    "static/js/main.4e012923.js"
+    "static/css/main.4cc13254.css",
+    "static/js/main.1d1ea308.js"
   ]
 }

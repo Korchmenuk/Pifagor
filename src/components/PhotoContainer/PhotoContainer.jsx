@@ -15,7 +15,7 @@ export const PhotoContainer = () => {
           width: 120,
           height: 120,
           borderRadius: '50%',
-          backgroundColor: 'gray',
+          backgroundColor: 'lightgray',
         }}
         src={photo}
         alt="photo-img"
